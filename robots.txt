@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeteisoht.iyounix.com/sitemap.xml
